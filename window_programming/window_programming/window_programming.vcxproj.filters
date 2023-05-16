@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\18. Memory management/IO">
+      <UniqueIdentifier>{e47b5efb-a8ea-4e16-a8e6-a4e424cd446a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\17. Exception">
+      <UniqueIdentifier>{27506383-1a6d-4bbe-a5ca-9df8d96cb0a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\19. 비동기I/O와 APC">
+      <UniqueIdentifier>{c774dc9e-2ba4-49a5-b06d-d440fffdac41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\19. 비동기I/O와 APC\IPC">
+      <UniqueIdentifier>{4cd9bee5-91a7-46a1-b8fb-6fe1f3b3adb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\19. 비동기I/O와 APC\Timer">
+      <UniqueIdentifier>{5c47f923-e0af-40ed-8901-993b43ce8dab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\19. 비동기I/O와 APC\Nonblocking_File_IO_Error">
+      <UniqueIdentifier>{435548d6-37c1-4b65-b735-1b2b3aa661a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\19. 비동기I/O와 APC\IPC\completion_routine_file">
+      <UniqueIdentifier>{d2a27980-e362-459e-9412-93d47c544782}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\19. 비동기I/O와 APC\APC">
+      <UniqueIdentifier>{aeaf4e8e-835c-4189-92a2-4d1b36a443d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\19. 비동기I/O와 APC\SYSTEM_INFO">
+      <UniqueIdentifier>{6d3605e2-f455-4361-a311-741077e8eb81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\20. 메모리관리">
+      <UniqueIdentifier>{53bd3602-5407-437c-a3c8-dcbc9edc27c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\21. DynamicLinking">
+      <UniqueIdentifier>{9b6eb60b-52ef-43f4-bf5a-74444093211d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="window_programming.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Operation1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Operation2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="KernelObjProb2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="OperationStateChild.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StringEvent.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StringEvent2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CriticalSectionSyncMutex.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MyongDongKyoJa.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StringEvent3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ManualResetTimer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PeriodicTimer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadPooling.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="type.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandPrmpt_Six.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GetExceptionCode.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RaiseException.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RaiseExceptionParam.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EXCEPTION_NONCONTINUABLE.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="FileTimeInformation.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="UNICODE_BASE_FILE_READ.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="UNICODE_BASE_FILE_IO.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="SEH_Calculator_ContinueExecution.cpp">
+      <Filter>소스 파일\17. Exception</Filter>
+    </ClCompile>
+    <ClCompile Include="SEH_Calculator_One.cpp">
+      <Filter>소스 파일\17. Exception</Filter>
+    </ClCompile>
+    <ClCompile Include="SEH_Calculator_Three.cpp">
+      <Filter>소스 파일\17. Exception</Filter>
+    </ClCompile>
+    <ClCompile Include="SEH_FlowView.cpp">
+      <Filter>소스 파일\17. Exception</Filter>
+    </ClCompile>
+    <ClCompile Include="GetFileSize.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="Set_Get_FileAttributes.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="GetFileInformationByHandle.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="SetFilePointer_32BIT_VERSION.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="SetFilePointer_64BIT_VERSION.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateDeleteDirectory.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="CurrentDirectory.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="System_Windows_Dir.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchPath.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="ListDirectoryFileList.cpp">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="XCpoy.c">
+      <Filter>소스 파일\18. Memory management/IO</Filter>
+    </ClCompile>
+    <ClCompile Include="overlap client.c">
+      <Filter>소스 파일\19. 비동기I/O와 APC\IPC</Filter>
+    </ClCompile>
+    <ClCompile Include="overlap server.c">
+      <Filter>소스 파일\19. 비동기I/O와 APC\IPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>소스 파일\19. 비동기I/O와 APC\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="Nonblocking_File_IO_Error.cpp">
+      <Filter>소스 파일\19. 비동기I/O와 APC\Nonblocking_File_IO_Error</Filter>
+    </ClCompile>
+    <ClCompile Include="completion_routine_file.cpp">
+      <Filter>소스 파일\19. 비동기I/O와 APC\IPC\completion_routine_file</Filter>
+    </ClCompile>
+    <ClCompile Include="APCQueue.cpp">
+      <Filter>소스 파일\19. 비동기I/O와 APC\APC</Filter>
+    </ClCompile>
+    <ClCompile Include="SYSTEM_INFO.cpp">
+      <Filter>소스 파일\19. 비동기I/O와 APC\SYSTEM_INFO</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicArray.cpp">
+      <Filter>소스 파일\20. 메모리관리</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicHeap.cpp">
+      <Filter>소스 파일\20. 메모리관리</Filter>
+    </ClCompile>
+    <ClCompile Include="HINKED_HEAP.cpp">
+      <Filter>소스 파일\20. 메모리관리</Filter>
+    </ClCompile>
+    <ClCompile Include="LINKED_HEAP.cpp">
+      <Filter>소스 파일\20. 메모리관리</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryMappedFileRead.cpp">
+      <Filter>소스 파일\20. 메모리관리</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryMappredFileSort.cpp">
+      <Filter>소스 파일\20. 메모리관리</Filter>
+    </ClCompile>
+    <ClCompile Include="SwapLibTest.cpp">
+      <Filter>소스 파일\21. DynamicLinking</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ThreadPooling.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
